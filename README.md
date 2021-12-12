@@ -15,4 +15,4 @@
 - 🌱 I’m currently learning python and new stuff about software engineering.
 - ⚡ Fun fact: I'm love coding
 ## Languages and Tools:
-Python Django Flask Archlinux Docker
+Python Arch linux 
