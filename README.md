@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Mehdi Yaqoubi
+# I'm a Python Back-end developer!!
 
 <!--
 **MehdiYaqoubi/MehdiYaqoubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning new stuff about software engineering ...
-- 👯  I’m looking to collaborate with other programmers ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning python and  new stuff about software engineering.
+- 👯  I’m looking to collaborate with other programmers.
+
+- ⚡ Fun fact: I'm love coding
+
+
